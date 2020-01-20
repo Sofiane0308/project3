@@ -30,4 +30,5 @@ Links to Docker-hub images:
     - Frontend: https://hub.docker.com/r/sofianechikhbled/udacity-frontend
     - ReverseProxy: https://hub.docker.com/r/sofianechikhbled/reverseproxy
 
+Screenshots are located in the root of the repository
 
